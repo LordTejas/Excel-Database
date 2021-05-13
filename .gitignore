@@ -1,0 +1,12 @@
+# Files
+*.xlsx
+*.csv
+*.zip
+*.pdf
+
+*.jpeg
+*.png
+
+# Folders
+venv
+.idea
